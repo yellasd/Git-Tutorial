@@ -1,41 +1,13 @@
-hi guys this is the add-commit branch.
+hi guys this is the reset branch.
 
 Follow the instructions below in the order and go to the next step only after completing the previous one.
 
-1) check the log of this branch you should see 2 commits
+1) create a file called "oops.txt" and copy 1 paragraph of lorem ipsum (or anything else)
 
-2) check the diff between the first and second commit in this branch
+2) Oops! that was a mistake reset back to the HEAD
 
-3) check the status of the branch
+3) check git status it should say "working tree clean"
 
-4) create a file called "addMe.txt"
+4) Yay you reached the required commit
 
-5) add 1 pragraph of lorem ipsum text (https://www.lipsum.com/feed/html) to addMe.txt
-
-6) check the git status
-
-7) copy paste the git status to a file called "status.txt"
-
-8) add these files to staging area
-
-9) commit these files
-
-10) check the git status now and update it to "status.txt"
-
-11) add one more paragraph of lorem ipsum to "addMe.txt"
-
-12) check the diff between current working directory and HEAD
-
-13) create a file called "dontAddme.txt" and copy paste this diff to this file
-
-14) add only "addMe.txt" and "status.txt" to staging area (dont add "dontAddme.txt")
-
-15) check the git status now
-
-16) commit now
-
-17) check the git status now
-
-18) push to add-commit branch in your forked repo
-
-19) checkout to branch called "reset"
+5) you can checkout to branch called "stash"
