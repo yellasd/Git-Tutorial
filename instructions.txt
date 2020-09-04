@@ -2,10 +2,14 @@ hi guys this is the reset branch.
 
 Follow the instructions below in the order and go to the next step only after completing the previous one.
 
-1) create a file called "oops.txt" and copy 1 paragraph of lorem ipsum (or anything else)
+1) now you are in the correct branch where you had to put the file
 
-2) add it to staging area
+2) pop the stash
 
-3) Oops! that was a mistake!! you added it in a wrong branch stash the changes you made 
+3) rename the file to yay.txt
 
-4) checkout to branch called "stash-real"
+4) git add and commit
+
+5) push it to stash-real branch in your forked repository
+
+6) checkout to branch called "merge"
