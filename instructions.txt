@@ -8,6 +8,4 @@ Follow the instructions below in the order and go to the next step only after co
 
 3) check git status it should say "working tree clean"
 
-4) Yay you reached the required commit
-
-5) you can checkout to branch called "stash"
+4) There has been some manipulation with the instructions reset back one commit to see the actual instruction to go ahead
