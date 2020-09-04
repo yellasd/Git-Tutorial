@@ -4,8 +4,8 @@ Follow the instructions below in the order and go to the next step only after co
 
 1) create a file called "oops.txt" and copy 1 paragraph of lorem ipsum (or anything else)
 
-2) Oops! that was a mistake reset back to the HEAD
+2) add it to staging area
 
-3) check git status it should say "working tree clean"
+3) Oops! that was a mistake!! you added it in a wrong branch stash the changes you made 
 
-4) There has been some manipulation with the instructions reset back one commit to see the actual instruction to go ahead
+4) checkout to branch called "stash-real"
