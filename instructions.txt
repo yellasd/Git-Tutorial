@@ -2,14 +2,14 @@ hi guys this is the reset branch.
 
 Follow the instructions below in the order and go to the next step only after completing the previous one.
 
-1) now you are in the correct branch where you had to put the file
+1) check the git log 
 
-2) pop the stash
+2) pull from branch called pull-branch in upstream (delta/Git-Tutorial)
 
-3) rename the file to yay.txt
+3) check the git log 
 
-4) git add and commit
+4) pull rebase from branch called conflict-branch in upstream (delta/Git-Tutorial)
 
-5) push it to stash-real branch in your forked repository
+5) solve the merge conflicts (check the files and accept the ones mentioned) and continue rebase
 
-6) checkout to branch called "merge"
+6) push to merge branch on your fork and send a Pull request to the original repo
