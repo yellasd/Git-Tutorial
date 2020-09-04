@@ -4,10 +4,16 @@ Follow the instructions below in the order and go to the next step only after co
 
 1) create a file called "oops.txt" and copy 1 paragraph of lorem ipsum (or anything else)
 
-2) Oops! that was a mistake reset back to the HEAD
+2) add and commit this file
 
-3) check git status it should say "working tree clean"
+3) Ooh you had to add 2 paragraph but you dont want to add another commit so soft reset the commit that you did just now
 
-4) Yay you reached the required commit
+4) check the git status
 
-5) you can checkout to branch called "stash"
+5) add 2nd paragraph to the file and check the status and diff with HEAD
+
+6) Oops! you made a breaking change hard reset back to the HEAD
+
+7) check git status it should say "working tree clean"
+
+8) There has been some manipulation with the instructions hard reset back one commit to see the actual instruction to go ahead
